@@ -1,7 +1,9 @@
-<h1 align="center">Hello, I'm Nur Aqmal Imani
-
-🎓 IT / Computer Science Student  
-💻 Interested in Software Development, Game Programming & Networking  
+<h1 align="center">
+  Hello, I'm Nur Aqmal Imani
+</p>
+  
+### About Me  
+<p align="center">🎓 IT / Computer Science Student | 💻 Interested in Software Development, Game Programming & Networking | 
 🎮 Currently working on C++ projects and small games  
 
 ---
@@ -13,8 +15,10 @@ I graduated with a Diploma in Electrical Engineering (Electronics) from UiTM Pas
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=cpp,mysql,figma,vscode" /> 
 </p>
-- **Tools:** VSCode, GitHub, Dev-C++, MySQL
-- **Libraries:** WinBGIm
+
+<p align="center">
+<img src="https://img.shields.io/badge/C++-Expert-blue" />
+<img src="https://img.shields.io/badge/SQL -Expert-blue" />
 
 ---
 
