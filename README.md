@@ -46,3 +46,4 @@ I graduated with a Diploma in Electrical Engineering (Electronics) from UiTM Pas
 ## 📫 Contact
 - GitHub: [Aqmal72](https://github.com/Aqmal72)
 - Student Email: nuraqmalimani@graduate.utm.my
+- LinkedIN: https://www.linkedin.com/in/aqmal-imani-73114a3a7
